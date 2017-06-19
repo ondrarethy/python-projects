@@ -1,0 +1,10 @@
+START
+P rohlik 150
+P hdd 20
+V hdd 5
+V hdd 20
+V rohlik 70
+V rohlik 80
+P houska 100
+V houska 90
+...
